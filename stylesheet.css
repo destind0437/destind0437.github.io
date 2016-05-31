@@ -1,6 +1,11 @@
 h1{
-  color:purple;
+  color:#10E829;
   font-size: 50px;
   border:2px solid black;
   opacity:0.5;
+  width:150px;
+  font-family:"Courier New";
+}
+body{
+  background:#405ED6;
 }
