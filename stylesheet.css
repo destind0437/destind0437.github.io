@@ -5,7 +5,11 @@ h1{
   border-radius:10px;
   width:180px;
   font-family:"Courier New";
+  font-weight:bold;
 }
 body{
-  background:#405ED6;
+  background:#651582;
+}
+p{
+  font-style:italic;
 }
