@@ -7,11 +7,12 @@ h1{
   font-family:"Courier New";
   font-weight:bold;
 }
-h2{
-  font-style:italic;
-}
-div{
+body{
   background-image:url("Diamonds.jpg");
   background-size:100%;
   background-repeat:no-repeat;
 }
+h2{
+  font-style:italic;
+}
+
