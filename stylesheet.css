@@ -1,12 +1,10 @@
-#background{
+body{
 	background-image:url("Diamonds.jpg");
 	background-repeat:no-repeat;
 	background-size:100%;
+}
+#background{
 	position:fixed;
-	bottom:0;
-	top:0;
-	left:0;
-	right:0;
 }
 h1{
   color:black;
