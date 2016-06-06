@@ -21,6 +21,7 @@ img{
 }
 section{
 	border:10px solid black;
+	width:50%;
 }
 li{
 	left:60;
