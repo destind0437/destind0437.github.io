@@ -1,3 +1,3 @@
 img:hover{
-  width:200px;
+  opacity:0.5;
 }
