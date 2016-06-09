@@ -27,6 +27,7 @@ li{
 	left:60;
 }
 #right{
-	left:50%;
+	left:100;
 	font-style:italic;
+	font-size:40px;
 }
